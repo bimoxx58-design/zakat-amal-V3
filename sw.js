@@ -1,4 +1,4 @@
-const VERSION = 'zakatmaal-v4-2026-08-11-chatfix';
+const VERSION = 'zakatmaal-v5-2026-08-11-local-assistant';
 const APP_SHELL = [
   './',
   './index.html',
